@@ -21,4 +21,3 @@ jobs:
           VALIDATE_JAVASCRIPT_STANDARD: false
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
